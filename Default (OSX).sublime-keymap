@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+b"], "command": "goto_definition" },
+  { "keys": ["shift+super+o"], "command": "open_remote_url" }
+]

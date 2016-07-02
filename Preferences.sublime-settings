@@ -1,0 +1,51 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Railscasts Extended/Railscasts Extended.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.sublime-workspace",
+		"*.map",
+		"*.min.js",
+		"*.min.css",
+		"*.gemspec",
+		"*.pack",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		"*/.git/*",
+		"coverage",
+		"*/coverage/*",
+		"log",
+		"tmp",
+		".idea",
+		".isc",
+		"cache",
+		"dependencies"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"ignore_vcs_packages": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log"
+	],
+	"index_files": true,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		120
+	],
+	"run_rspec_command": "/Users/doughyde/.rbenv/shims/zeus rspec {relative_path}",
+	"run_single_rspec_command": "/Users/doughyde/.rbenv/shims/zeus rspec {relative_path}:{line_number}",
+	"show_full_path": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": true
+}
