@@ -3,7 +3,7 @@
 My saved settings for [Sublime Text 3](https://www.sublimetext.com/3). This is mainly for my own reference, but feel free to fork.
 
 Key packages
-* [sublime-github](): `cmd+.` opens file in github
+* [sublime-github](): `cmd+shift+o` opens file in github
 * Git: better git integration (blame, log, etc)
 * GitGutter: indicate changed lines
 * [Emmet](https://github.com/sergeche/emmet-sublime): Many cool features
